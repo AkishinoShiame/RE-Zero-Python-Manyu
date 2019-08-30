@@ -15,6 +15,6 @@
 
 今はまだ考えていますけど、多分GPLｖ3を使う可能性が多いと思う。
 
-===
+*****
 
 Create by AkishinoShiame@github
