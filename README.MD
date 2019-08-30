@@ -1,3 +1,5 @@
+![Re:ゼロから始めるパイソン技](https://repository-images.githubusercontent.com/177366322/3b5f1a80-cac4-11e9-83b6-4d770f26baab)
+
 # Re:ゼロから始めるパイソン技
 
 このレポジトリは自分がパイソンを自己勉強や知識増幅する用の空間。
