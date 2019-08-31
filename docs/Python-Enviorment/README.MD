@@ -91,9 +91,9 @@ Due to the Python version, the pip tool also according to the python has `pip2` 
   
 After install the `pip` tool, the libraries can be install with below command:  
 
-```bash
-pip2 install <library/package name> # for python 2
-pip3 install <library/package name> # for python 3
+```Bash
+(Terminal) pip2 install <library/package name> # for python 2
+(Terminal) pip3 install <library/package name> # for python 3
 ```
   
 The above command will goes online download & install for the latest library/package.  
@@ -104,17 +104,17 @@ This tool also can install packages/libraries from other non-python-official sit
   
 For the non-python-official packages can use below method to download and install:  
   
-```bash
-pip2 install <site address of .whl file> # for python 2
-pip3 install <site address of .whl file> # for python 3
+```Bash
+(Terminal) pip2 install <site address of .whl file> # for python 2
+(Terminal) pip3 install <site address of .whl file> # for python 3
 ```
   
 Or for the offline installation, it can be download the whl file first and manually install as below:  
   
 ```bash
-wget <site address of .whl file> # or manually using browser to download
-pip2 install <local .whl file> # for python 2
-pip3 install <local .whl file> # for python 3
+(Terminal) wget <site address of .whl file> # or manually using browser to download
+(Terminal) pip2 install <local .whl file> # for python 2
+(Terminal) pip3 install <local .whl file> # for python 3
 ```
   
 ## {Jupyter Notebook}
@@ -128,8 +128,8 @@ The extension of notebook is called ".ipynb" and is suggest for the beginner to 
 The install method as below:  
   
 ```shell
-pip2 install jupyter # for python 2
-pip3 install jupyter # for python 3
+(Terminal) pip2 install jupyter # for python 2
+(Terminal) pip3 install jupyter # for python 3
 ```
   
 After installation, simply execute `jupyter notebook` in the command-line to start using it.  
