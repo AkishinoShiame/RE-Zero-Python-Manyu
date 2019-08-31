@@ -69,8 +69,8 @@ Some IDE introduction.
   
 #### [Spyder]
   
-#### [Jupyter Notebook]
-  
 ## Library Installation / ライブラリのインストール / 安裝函式庫
   
 The official suggest to install the Python Libries by using their official tool: `pip`.  
+  
+## {Jupyter Notebook}
