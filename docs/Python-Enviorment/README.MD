@@ -23,7 +23,7 @@ Also for linux can use the related package handler to `install python<version>` 
   
 Some IDE introduction.  
 
-#### Pycharm
+#### [Pycharm]
   
 There are two version of PyCharm can use, usually it`s suggest to use Community Edition.  
   
@@ -35,13 +35,13 @@ This has a dependent library management GUI tool, which very friendly for the fi
   
 The best suggest IDE.  
   
-#### WinPython
+#### [WinPython]
   
-#### Anaconda
+#### [Anaconda]
   
-#### Spyder  
+#### [Spyder]
   
-#### Jupyter Notebook
+#### [Jupyter Notebook]
   
 ## Library Installation / ライブラリのインストール / 安裝函式庫
   
