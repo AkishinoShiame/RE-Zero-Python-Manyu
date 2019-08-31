@@ -31,7 +31,9 @@ The communication version already has a lot of useful function and it`s free.
   
 Official site and download can found from [here](https://www.jetbrains.com/pycharm/).  
   
-Dependent d  
+This has a dependent library management GUI tool, which very friendly for the first time developer.  
+  
+The best suggest IDE.  
   
 #### WinPython
   
