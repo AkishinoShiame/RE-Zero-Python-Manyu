@@ -24,18 +24,18 @@ Also for linux can use the related package handler to `install python<version>` 
 Some IDE introduction.  
 
 #### [Pycharm]
-  
-There are two version of PyCharm can use, usually it`s suggest to use Community Edition.  
-  
-The communication version already has a lot of useful function and it`s free.  
-  
-Official site and download can found from [here](https://www.jetbrains.com/pycharm/).  
-  
-This has a dependent library management GUI tool, which very friendly for the first time developer.  
-  
-Also this is a cross-OS IDE, the usage learning can also find in [here](https://www.jetbrains.com/pycharm/learning-center/)  
-  
-The best suggest IDE.  
+>   
+> There are two version of PyCharm can use, usually it`s suggest to use Community Edition.  
+>   
+> The communication version already has a lot of useful function and it`s free.  
+>   
+> Official site and download can found from [here](https://www.jetbrains.com/pycharm/).  
+>   
+> This has a dependent library management GUI tool, which very friendly for the first time developer.  
+>   
+> Also this is a cross-OS IDE, the usage learning can also find in [here](https://www.jetbrains.com/pycharm/learning-center/)  
+>   
+> The best suggest IDE.  
   
 #### [WinPython]
   
