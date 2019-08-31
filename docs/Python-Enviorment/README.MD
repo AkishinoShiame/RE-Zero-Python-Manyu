@@ -38,6 +38,18 @@ Some IDE introduction.
 > The best suggest IDE.  
   
 #### [WinPython]
+>   
+> This Python IDE was the first one I`ve used and suggest by an Instructor.  
+>  
+> The Official website can be found from [Here](https://winpython.github.io/), and only support in windows OS.  
+>  
+> It`s also a good starter-used IDE, due to its build-in library. Which can found the list from [Here](https://github.com/winpython/winpython/blob/master/changelogs/WinPython-64bit-3.7.4.0.md).  
+>  
+> I was also use this for learning the stuffs in [Deep Learning Site](http://deeplearning.net/tutorial/index.html) also try some coding.  
+>  
+> This package uses **Spyder** editor as their default IDE.
+>  
+> This package also has it`s own Package Management Tool.  
   
 #### [Anaconda]
   
