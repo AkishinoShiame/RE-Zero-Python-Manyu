@@ -133,3 +133,7 @@ pip3 install jupyter # for python 3
 ```
   
 After installation, simply execute `jupyter notebook` in the command-line to start using it.  
+  
+---
+  
+Copyright (C) 2019  AkishinoShiame  
