@@ -118,3 +118,18 @@ pip3 install <local .whl file> # for python 3
 ```
   
 ## {Jupyter Notebook}
+  
+For the Jupyter Notebook, the [official page](https://jupyter.org/) tells for a solution to execute code and also with mark-down method to explane how the python code works in same enviorment.  
+  
+It is developed by python based and made out web page interface for access.  
+  
+The extension of notebook is called ".ipynb" and is suggest for the beginner to install and use for checking others 'notebook' to learn Python.  
+  
+The install method as below:  
+  
+```shell
+pip2 install jupyter # for python 2
+pip3 install jupyter # for python 3
+```
+  
+After installation, simply execute `jupyter notebook` in the command-line to start using it.  
