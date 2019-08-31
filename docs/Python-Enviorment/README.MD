@@ -21,15 +21,25 @@ Also for linux can use the related package handler to `install python<version>` 
   
 ## Enviorment / 使用環境 / ソフトウェアバージョン
   
-pycharm Community <https://www.jetbrains.com/pycharm/download/>  
+]] IDE  
+
+#### Pycharm
   
-WinPython  
+There are two version of PyCharm can use, usually it`s suggest to use Community Edition.  
   
-Anaconda  
+The communication version already has a lot of useful function and it`s free.  
   
-Spyder  
+Official site and download can found from [here](https://www.jetbrains.com/pycharm/).  
   
-Jupyter Notebook <https://jupyter.org/install>  
+Dependent d  
+  
+#### WinPython
+  
+#### Anaconda
+  
+#### Spyder  
+  
+#### Jupyter Notebook
   
 ## Library Installation / ライブラリのインストール / 安裝函式庫
   
