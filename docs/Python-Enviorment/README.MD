@@ -21,7 +21,7 @@ Also for linux can use the related package handler to `install python<version>` 
   
 ## Enviorment / 使用環境 / ソフトウェアバージョン
   
-]] IDE  
+Some IDE introduction.  
 
 #### Pycharm
   
