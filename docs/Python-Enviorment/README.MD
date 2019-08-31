@@ -68,9 +68,53 @@ Some IDE introduction.
 > From officials description said its `The Enterprise Data Science Platform` also free for download and used.  
   
 #### [Spyder]
+>  
+> This is the IDE base on python created application.  
+>  
+> It was also been created for the Data Science used.
+>  
+> The support OSs of the `Spyter` across all platform. Can be installed by official `pip` tool.  
+>  
+> The official site can be found in [this site](https://www.spyder-ide.org/).  
+>  
+> For the self experience, it is not suggest to install alone-side with pip. It will sometimes catch the bug of system ASCII/Unicode issue, makes the application can not opened/working.  
   
 ## Library Installation / ライブラリのインストール / 安裝函式庫
   
 The official suggest to install the Python Libries by using their official tool: `pip`.  
+  
+For the Windows system, it packed with the Python official installation.  
+  
+For the other System, installed with their own Package Manager. (Ex. apt install/yum install/easy_install...)  
+  
+Due to the Python version, the pip tool also according to the python has `pip2` and `pip3`.  
+  
+After install the `pip` tool, the libraries can be install with below command:  
+
+```bash
+pip2 install <library/package name> # for python 2
+pip3 install <library/package name> # for python 3
+```
+  
+The above command will goes online download & install for the latest library/package.  
+  
+For the list of of the packages/libraries which can be donload, the python official released a [site](https://pypi.org/) can check on.  
+  
+This tool also can install packages/libraries from other non-python-official sites or offline download.  
+  
+For the non-python-official packages can use below method to download and install:  
+  
+```bash
+pip2 install <site address of .whl file> # for python 2
+pip3 install <site address of .whl file> # for python 3
+```
+  
+Or for the offline installation, it can be download the whl file first and manually install as below:  
+  
+```bash
+wget <site address of .whl file> # or manually using browser to download
+pip2 install <local .whl file> # for python 2
+pip3 install <local .whl file> # for python 3
+```
   
 ## {Jupyter Notebook}
