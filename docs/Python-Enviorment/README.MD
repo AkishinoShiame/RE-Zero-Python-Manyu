@@ -33,6 +33,8 @@ Official site and download can found from [here](https://www.jetbrains.com/pycha
   
 This has a dependent library management GUI tool, which very friendly for the first time developer.  
   
+Also this is a cross-OS IDE, the usage learning can also find in [here](https://www.jetbrains.com/pycharm/learning-center/)  
+  
 The best suggest IDE.  
   
 #### [WinPython]
