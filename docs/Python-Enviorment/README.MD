@@ -52,6 +52,20 @@ Some IDE introduction.
 > This package also has it`s own Package Management Tool.  
   
 #### [Anaconda]
+>  
+> This IDE was suggest by one of my best friend.  
+>  
+> As the WinPython can not supported for mac system, this was a suggestion for mac user previously.  
+>  
+> It also like WinPython, has its own library management tool, but still can usin official install method.  
+>  
+> This Package also uses **Spyter** as it`s default editor.  
+>  
+> The official website and download can be found from [Here](https://www.anaconda.com/).  
+>  
+> Before **Pycharm** became famous, this is another choice on Python development.
+>  
+> From officials description said its `The Enterprise Data Science Platform` also free for download and used.  
   
 #### [Spyder]
   
