@@ -55,19 +55,19 @@ print("Hello World") # 於 Python 3 版撰寫此程式碼
   
 #### [Anaconda]
 >  
-> This IDE was suggest by one of my best friend.  
+> 此編譯器包是由我的一位摯友所推薦。  
 >  
-> As the WinPython can not supported for mac system, this was a suggestion for mac user previously.  
+> 由於WinPython無法提供支援給macOS作業系統進行使用，此編譯器包曾為一個不錯的選擇可推給macOS的使用者。  
 >  
-> It also like WinPython, has its own library management tool, but still can usin official install method.  
+> 大體上他跟WinPython接近，同時包含自己的函式庫套件管理工具，但也可以使用官方提供的工具套件安裝。  
 >  
-> This Package also uses **Spyter** as it`s default editor.  
+> 此編譯器包也是使用**Spyter**編譯器作為其預設的程式編輯軟體。  
 >  
-> The official website and download can be found from [Here](https://www.anaconda.com/).  
+> 關於官方網站與軟體下載可由[此處](https://www.anaconda.com/)取得。  
 >  
-> Before **Pycharm** became famous, this is another choice on Python development.
+> 在**Pycharm**變的更加知名與好用以前，此集成包仍提供Python開發者一個不錯的環境。  
 >  
-> From officials description said its `The Enterprise Data Science Platform` also free for download and used.  
+> 從該程式之官方網頁將此編輯器包定義為`The Enterprise Data Science Platform`(提供給企業的資料科學平台)但他也提供給一般使用者做為免費開發的選擇。  
   
 #### [Spyder]
 >  
