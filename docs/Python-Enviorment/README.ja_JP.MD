@@ -1,5 +1,7 @@
 # ゼロからパイソン
   
+*日本語で原稿として書いてます。  
+  
 ## パイソンのリリース / Python Release / Python釋出資訊
   
 Currently Python still has two Version Release: Python 2 and Python 3.    
