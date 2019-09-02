@@ -71,9 +71,9 @@ print("Hello World") # 於 Python 3 版撰寫此程式碼
   
 #### [Spyder]
 >  
-> This is the IDE base on python created application.  
+> 這是基於python程式碼所建立出來的Python編譯器。  
 >  
-> It was also been created for the Data Science used.
+> 此編譯器當初也是以資料科學所使用為基礎進行開發。
 >  
 > The support OSs of the `Spyter` across all platform. Can be installed by official `pip` tool.  
 >  
