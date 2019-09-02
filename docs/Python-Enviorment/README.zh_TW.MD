@@ -1,59 +1,57 @@
 # ゼロからパイソン
   
-[zh_TW](README.zh_TW.MD)  
-[ja_JP](README.ja_JP.MD)  
-This file is manly for english.  
+*此為中文版翻譯  
   
 ## パイソンのリリース / Python Release / Python釋出資訊
   
-Currently Python still has two Version Release: Python 2 and Python 3.    
-Between Python 2 vs Python 3 makes some of the coding style differs in the core part, likes below example:  
+目前Python由官方提供了兩個基礎版本: Python 2 與 Python 3.    
+介於 Python 2 與 Python 3 修改了部份了核心程式導致會有如以下的程式撰寫差異:  
   
 ```python
-print "Hello World" # which works in Python 2
-print("Hello World") # which works in Python 3
+print "Hello World" # 於 Python 2 版撰寫此程式碼
+print("Hello World") # 於 Python 3 版撰寫此程式碼
 ```
   
-Currently the Python 2 lastest release is ver 2.7, and has been announce to EoM(End of Maintenance) around 2020.  
-Which can be found in [This post](https://pythonclock.org/).  
+目前 Python 2 的最新版本為 2.7版, 同時官方已聲明在2020年後將終止支援。  
+相關的官方發布資訊可 [由此](https://pythonclock.org/) 找到。  
   
-For Python 3 it still keep running.  
-As for the beginer, it is suggested to steps in Python with version 3 rather then 2.  
+至於 Python 3 則依然維持正常的更新與運作。  
+對於新手,建議現階段開始以第 3 版進行學習與撰寫而非第 2版。  
   
-All the release can be found in Python official [site](https://www.python.org/).  
-Also for linux can use the related package handler to `install python<version>` or `install python<version>-dev`.  
+所有的版本釋出資訊可由 [官網](https://www.python.org/)得知。  
+而Linux平台也可由系統內建的套件管理程式以 `install python<version>` 或 `install python<version>-dev`指令進行安裝。  
   
 ## Enviorment / 使用環境 / ソフトウェアバージョン
   
-Some IDE introduction.  
+介紹一些常用的編譯器(IDE)。  
 
 #### [Pycharm]
 >   
-> There are two version of PyCharm can use, usually it`s suggest to use Community Edition.  
+> 官方提供了兩個版本的PyCharm可使用, 通常建議選擇社群版本(Community Edition)。  
 >   
-> The communication version already has a lot of useful function and it`s free.  
+> 社群版本以提供了許多基礎的便利功能而且是免費使用。  
 >   
-> Official site and download can found from [here](https://www.jetbrains.com/pycharm/).  
+> 官方網頁與編譯器程式下載可由 [此處](https://www.jetbrains.com/pycharm/)取得。  
 >   
-> This has a dependent library management GUI tool, which very friendly for the first time developer.  
+> 同時他具備獨立的圖形化函式庫管理器，同時可在內部跑多個不同的版本與環境進行測試，對於第一次開發的人是個非常便利的工具。  
 >   
-> Also this is a cross-OS IDE, the usage learning can also find in [here](https://www.jetbrains.com/pycharm/learning-center/)  
+> 同時此為一個跨作業系統的IDE，相關的學習與使用資訊也可由 [官網](https://www.jetbrains.com/pycharm/learning-center/) 取得。  
 >   
-> The best suggest IDE.  
+> 目前最建議使用之編譯器(IDE)。  
   
 #### [WinPython]
 >   
-> This Python IDE was the first one I`ve used and suggest by an Instructor.  
+> 此Python編譯器(IDE)為我接觸Python時所使用的編譯器包並是被當時的指導教授所建議使用。  
 >  
-> The Official website can be found from [Here](https://winpython.github.io/), and only support in windows OS.  
+> 其官方網頁可由[此處](https://winpython.github.io/)查詢，同時他只支援windows作業系統。  
 >  
-> It`s also a good starter-used IDE, due to its build-in library. Which can found the list from [Here](https://github.com/winpython/winpython/blob/master/changelogs/WinPython-64bit-3.7.4.0.md).  
+> 由於此編譯器包同時包含一些常用的函式庫，該內含函式庫清單可由[這邊](https://github.com/winpython/winpython/blob/master/changelogs/WinPython-64bit-3.7.4.0.md)取得，因次也是一個給新手使用挺建議的編譯器包。  
 >  
-> I was also use this for learning the stuffs in [Deep Learning Site](http://deeplearning.net/tutorial/index.html) also try some coding.  
+> 個人也是使用此編譯器學習[深度學習網站](http://deeplearning.net/tutorial/index.html)的程式與進行開發撰寫。  
 >  
-> This package uses **Spyder** editor as their default IDE.
+> 這整包使用了**Spyder**編譯器作為其預設的程式編輯軟體。
 >  
-> This package also has it`s own Package Management Tool.  
+> 這個編譯器包包含了自帶的套件管理程式。  
   
 #### [Anaconda]
 >  

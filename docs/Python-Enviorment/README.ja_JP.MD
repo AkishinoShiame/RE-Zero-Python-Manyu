@@ -1,9 +1,5 @@
 # ゼロからパイソン
   
-[zh_TW](README.zh_TW.MD)  
-[ja_JP](README.ja_JP.MD)  
-This file is manly for english.  
-  
 ## パイソンのリリース / Python Release / Python釋出資訊
   
 Currently Python still has two Version Release: Python 2 and Python 3.    
