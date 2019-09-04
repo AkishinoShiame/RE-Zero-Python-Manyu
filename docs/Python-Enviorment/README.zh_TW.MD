@@ -75,43 +75,43 @@ print("Hello World") # 於 Python 3 版撰寫此程式碼
 >  
 > 此編譯器當初也是以資料科學所使用為基礎進行開發。
 >  
-> The support OSs of the `Spyter` across all platform. Can be installed by official `pip` tool.  
+> `Spyter`所支援的作業系統橫跨所有平台。 可獨立由Python官方提供之`pip`工具進行安裝。  
 >  
-> The official site can be found in [this site](https://www.spyder-ide.org/).  
+> 官網與相關資訊可由[此處](https://www.spyder-ide.org/)前往。  
 >  
-> For the self experience, it is not suggest to install alone-side with pip. It will sometimes catch the bug of system ASCII/Unicode issue, makes the application can not opened/working.  
+> 依據個人經驗，較不建議使用pip進行直接安裝。由於原始程式碼語系撰寫問題，將影響到程式對系統語系的錯誤判讀，導致程式無法開啟/運作。  
   
 ## Library Installation / ライブラリのインストール / 安裝函式庫
   
-The official suggest to install the Python Libries by using their official tool: `pip`.  
+Python官方建議使用其附屬之套件管理程式進行任何函式庫安裝: `pip`.  
   
-For the Windows system, it packed with the Python official installation.  
+在Windows系統上，已經包裝在Python官方所提供的原生安裝檔，預設安裝下即會進行安裝。  
   
-For the other System, installed with their own Package Manager. (Ex. apt install/yum install/easy_install...)  
+在其他平台上，需使用對應系統之套件管理程式進行安裝。 (如 apt install/yum install/easy_install...)  
   
-Due to the Python version, the pip tool also according to the python has `pip2` and `pip3`.  
+根據現行Python官方仍提供兩個版本，pip工具仍根據python版本的不同，對應成`pip2`與`pip3`。  
   
-After install the `pip` tool, the libraries can be install with below command:  
+一旦`pip`工具安裝完成後，Python函式庫可由類似以下指令進行安裝:  
 
 ```Bash
 (Terminal) pip2 install <library/package name> # for python 2
 (Terminal) pip3 install <library/package name> # for python 3
 ```
   
-The above command will goes online download & install for the latest library/package.  
+上述指令本身是直接連結至網路進行線上下載並同時安裝對應最新的函式庫/套件。  
   
-For the list of of the packages/libraries which can be donload, the python official released a [site](https://pypi.org/) can check on.  
+關於可安裝的函式庫與清單，python官方網站已釋出一個專門的[網站](https://pypi.org/)提供確認與搜尋，甚至可自行提供自行開發的函式庫。  
   
-This tool also can install packages/libraries from other non-python-official sites or offline download.  
+此工具同時提供非官方與離線安裝套件/函式庫，由其他函式庫製作者之網站(非Python官方提供)或先下載後再進行離線安裝。  
   
-For the non-python-official packages can use below method to download and install:  
+針對非官方，不在上述網站清單之函式庫可由以下指令進行下載與安裝:  
   
 ```Bash
 (Terminal) pip2 install <site address of .whl file> # for python 2
 (Terminal) pip3 install <site address of .whl file> # for python 3
 ```
   
-Or for the offline installation, it can be download the whl file first and manually install as below:  
+或是想進行離線安裝，可先下載對應的whl檔在執行以下指令進行安裝:  
   
 ```bash
 (Terminal) wget <site address of .whl file> # or manually using browser to download
@@ -121,20 +121,20 @@ Or for the offline installation, it can be download the whl file first and manua
   
 ## {Jupyter Notebook}
   
-For the Jupyter Notebook, the [official page](https://jupyter.org/) tells for a solution to execute code and also with mark-down method to explane how the python code works in same enviorment.  
+關於Jupyter Notebook，其[官方網站](https://jupyter.org/)提供一個方案可以同時在同一個環境下執行python片段程式碼並加入markdown的註解對應python程式碼進行解說。  
   
-It is developed by python based and made out web page interface for access.  
+此程式也是基於python開發並提供一個網頁介面進行存取與使用。  
   
-The extension of notebook is called ".ipynb" and is suggest for the beginner to install and use for checking others 'notebook' to learn Python.  
+任何檔案的副檔名由此程式建立出的使用".ipynb"為其父檔名，並建議初學者可安裝並下載與使用其他人所建好之'筆記'來學習Python語言。  
   
-The install method as below:  
+其安裝方式如下:  
   
 ```shell
 (Terminal) pip2 install jupyter # for python 2
 (Terminal) pip3 install jupyter # for python 3
 ```
   
-After installation, simply execute `jupyter notebook` in the command-line to start using it.  
+完成安裝後，簡單的在終端機/命令行執行`jupyter notebook`來開啟與使用。  
   
 ---
   
