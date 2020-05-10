@@ -105,3 +105,4 @@ venv.bak/
 
 #custom update file script
 update-git.sh
+jupyter.sh
