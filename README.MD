@@ -27,4 +27,4 @@
 
 *****
 
-Create by AkishinoShiame@github ![badge](https://img.shields.io/badge/秋篠詩雨-%40GitHub-blue)
+Create by AkishinoShiame@github [![badge](https://img.shields.io/badge/秋篠詩雨-%40GitHub-blue)](https://github.com/AkishinoShiame)
