@@ -18,3 +18,4 @@
 | コーティング基礎 | [Number_and_Random.ipynb](Number_and_Random.ipynb) | [Basic_Loop_and_Condition.py](../Sources/Basic_Loop_and_Condition.py) |
 | 図の変換 | [Image_Resize.ipynb](Image_Resize.ipynb) | [Image_Resize.py](../Sources/Image_Resize.py) |
 | Oracleデータベースの接続と使用 | [OracleDB_Connect_Example.ipynb](OracleDB_Connect_Example.ipynb) | [OracleDB_Connect_Example.py](../Sources/OracleDB_Connect_Example.py) |
+| Pythonリストとパッケージの使用方法 | [Python_List_and_Format.ipynb](Python_List_and_Format.ipynb) | [Python_List_and_Format.py](../Sources/Python_List_and_Format.py) |
