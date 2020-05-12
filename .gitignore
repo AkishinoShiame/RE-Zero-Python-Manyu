@@ -106,3 +106,6 @@ venv.bak/
 #custom update file script
 update-git.sh
 jupyter.sh
+
+# macOS system file
+.DS_Store
