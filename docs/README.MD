@@ -21,3 +21,4 @@
 | Pythonリストとパッケージの使用方法 | [Python_List_and_Format.ipynb](Python_List_and_Format.ipynb) | [Python_List_and_Format.py](../Sources/Python_List_and_Format.py) |
 | APIから資料の取れとCSV変換 | [JSON_to_CSV_from_API.ipynb](JSON_to_CSV_from_API.ipynb) | [JSON_to_CSV_from_API.py](../Sources/JSON_to_CSV_from_API.py) |
 | CSVファイルを綺麗に変換 | [csv2prettyDetailCSV.ipynb](csv2prettyDetailCSV.ipynb) | [csv2prettyDetailCSV.py](../Sources/csv2prettyDetailCSV.py) |
+| Djangoを基礎から勉強しよう | [Django_basic.ipynb](Django_basic.ipynb) | [WorkspaceDir](./raw/myapp) |
